@@ -1,0 +1,12 @@
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.exe
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.pdb
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csprojResolveAssemblyReference.cache
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.baml
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\App.g.cs
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart_MarkupCompile.cache
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.g.resources
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.Properties.Resources.resources
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csproj.GenerateResource.Cache
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.exe
+C:\Users\Palbalaji\Documents\Visual Studio 2017\Projects\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.pdb
